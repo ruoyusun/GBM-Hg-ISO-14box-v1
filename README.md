@@ -1,2 +1,2 @@
 # GBM-Hg-ISO-14box-v1
-This is the first
+please see the user instruction and codes of Hg isotopes
